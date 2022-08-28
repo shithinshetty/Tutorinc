@@ -9,4 +9,5 @@ Its a Online Platform In Development
 ![Screenshot (295)](https://user-images.githubusercontent.com/92690951/187086321-a3fcf0f5-5fcb-4ecb-b658-edabf9d037ea.png)
 ![Screenshot (296)](https://user-images.githubusercontent.com/92690951/187086322-718fe815-b8a6-4278-956a-01aff8494b3f.png)
 ![Screenshot (298)](https://user-images.githubusercontent.com/92690951/187086323-de9120c0-dec3-4b4f-a409-12e6cae8ffa6.png)
-![Screenshot (299)](https://user-images.githubusercontent.com/92690951/187086325-643de3d6-5542-4bd0-8a90-ebc48f12dab6.png)
+![Screenshot (299)](https://user-images.githubusercontent.com/92690951/187086375-cd57c376-dbec-40a8-be80-7472d952ea07.png)
+
